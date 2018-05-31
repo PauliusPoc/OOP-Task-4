@@ -2,6 +2,12 @@
 
 ## Vektoriaus implementacija, visos funkcijos parašytos remiantis [cppreference](http://en.cppreference.com/w/cpp/container/vector) suteikta informacija
 
+
+
+## Dokumentacija
+Norėdami peržiūrėti dokumentaciją, nusiklonuokite repozitoriją, eikite į aplanką Doxygen ir atsidarykite index.html .
+
+
 ## Greičio matavimai - išvados
 * Implementuotas vektorius daugumoje situacijų yra ~2 kartus greitesnis už std::vector
 
